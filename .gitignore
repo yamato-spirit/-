@@ -1,0 +1,23 @@
+# Java: コンパイルされた .class ファイル
+/bin/
+
+# Java: ログファイル
+*.log
+
+# Java: パッケージ化されたファイル (もしビルドする場合)
+*.jar
+*.war
+*.ear
+
+# IDE: VS Codeのワークスペース設定
+/.vscode/
+
+# OS: macOS
+.DS_Store
+
+# OS: Windows
+Thumbs.db
+desktop.ini
+
+# 自分だけが参照できればいいので...
+今後の制作物.txt
