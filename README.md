@@ -19,7 +19,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## コマンド入力例
 
-1. 
+1.  
 javac -d bin src/zoo/ZooMain.java src/zoo/Animal.java src/zoo/Dog.java src/zoo/Cat.java src/zoo/Lion.java
-2. 
+2.  
 java -cp bin zoo.ZooMain
